@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="tutorial6">
+</Property><Property Name="Solution File" Value="E:\workspace\coursework\Graphics\tutorial06\tutorial6.sln">
+</Property><Property Name="Date" Value="2011年10月22日">
+</Property><Property Name="Time" Value="23:13:59">
+</Property></Properties><Event ErrorLevel="0" Project="tutorial6" Source="tutorial6.vcproj" Description="Converting project file 'E:\workspace\coursework\Graphics\tutorial06\tutorial6.vcproj'.">
+</Event><Event ErrorLevel="1" Project="tutorial6" Source="tutorial6.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="tutorial6" Source="tutorial6.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="tutorial6" Source="tutorial6.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="tutorial6" Source="tutorial6.vcproj" Description="Done converting to new project file 'E:\workspace\coursework\Graphics\tutorial06\tutorial6.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="tutorial6" Source="tutorial6.vcproj" Description="Converted">
+</Event></UpgradeLog>

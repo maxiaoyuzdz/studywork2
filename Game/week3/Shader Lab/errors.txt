@@ -1,0 +1,1 @@
+E:\workspace\coursework\Game\week3\Shader Lab\SimpleShader_MAY.vsh(12,1): error X5478: M3x3 instruction must use destination writemask: .xyz

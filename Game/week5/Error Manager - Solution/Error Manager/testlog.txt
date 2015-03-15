@@ -1,0 +1,7 @@
+*****ERROR*****
+19:51:01
+Error Num: 1
+Error Desc: this is my error
+Src File: e:\workspace\coursework\game\week5\error manager - solution\error manager\main.cpp
+Line Number: 13
+***************
